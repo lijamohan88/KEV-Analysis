@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/cisa-kev-dashboard/',  // ← MUST match your GitHub repo name
+  base: '/KEV-Analysis/',  // ← MUST match your GitHub repo name
 })
